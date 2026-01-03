@@ -1,9 +1,3 @@
-This is a full-stack **AI Email Assistant** application that integrates a Spring Boot backend with a React frontend and a Chrome extension to help users generate and reply to emails intelligently.
-
-Here is a comprehensive `README.md` file tailored for your repository.
-
----
-
 # ✈️ Mailpilot
 
 **Mailpilot** is an intelligent email assistant designed to streamline your communication. It uses AI to generate professional emails, draft smart replies, and refine your writing directly within your browser.
